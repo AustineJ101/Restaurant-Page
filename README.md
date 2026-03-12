@@ -3,8 +3,6 @@ This is a simple three-page restaurant website built using HTML, CSS and JavaScr
 
 Instead of using static HTML pages for navigation, the content is dynamically generated and rendered using JavaScript, demonstrating how a multi-page interface can be created with DOM manipulation.
 
-[Live Preview]()
-
 # Concepts Practiced
 - Dynamic DOM manipulation
 - State management
